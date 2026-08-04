@@ -2,7 +2,7 @@
 
   <h1>👋 Olá, eu sou o Gustavo Lisboa!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vcenter=true&width=500&lines=Desenvolvedor+Software;Entusiasta+de+Tecnologia;Criando+Soluções+e+Projetos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Graduando+em+Engenharia+de+Software+-+8P;Desenvolvedor+de+Software" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/GustavoLisboa0">
