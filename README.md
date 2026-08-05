@@ -47,16 +47,14 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoLisboa0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoLisboa0&layout=compact&theme=tokyonight" alt="Linguagens Mais Utilizadas" />
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLisboa0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLisboa0&layout=compact&theme=tokyonight" />
+</p>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLisboa0&theme=tokyonight" alt="Sequência de Commits" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLisboa0&theme=tokyonight" />
+</p>
 
 ---
 
