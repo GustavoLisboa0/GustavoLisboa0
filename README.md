@@ -2,7 +2,7 @@
 
   <h1>👋 Olá, eu sou o Gustavo Lisboa!</h1>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Graduando+em+Engenharia+de+Software+-+8P;Desenvolvedor+de+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vcenter=true&width=550&lines=Engenheiro+de+Software;Automações+com+IA" alt="Typing SVG" />
 
   <p>
     <a href="https://github.com/GustavoLisboa0">
@@ -19,7 +19,13 @@
 - 🔭 **Em constante evolução:** Desenvolvendo projetos práticos para aprimorar minhas habilidades em programação.
 - 💡 **Foco:** Resolução de problemas, código limpo e boas práticas de desenvolvimento de software.
 - 🎓 **Aprendizado diário:** Explorando novas linguagens, estruturas de dados, frameworks e automações.
-- ⚡ **Curiosidade:** Apaixonado por tecnologia e sempre pronto para novos desafios.
+- ⚡ **Curiosidades:** Colecionador de miniaturas de carros e fundador do Suprema Corte FC - time de futebol amador.
+
+---
+
+## 🌐 Portfólio
+
+Conheça meus projetos e trabalhos em: **[gustavolisboa.netlify.app](https://gustavolisboa.netlify.app/)**
 
 ---
 
@@ -48,11 +54,6 @@
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoLisboa0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoLisboa0&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLisboa0&theme=tokyonight" />
 </p>
 
@@ -66,6 +67,9 @@
   </a>
   <a href="https://www.linkedin.com/in/gustavo-lisboa-7396b6307/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gustavolisboa.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-B8F35A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
