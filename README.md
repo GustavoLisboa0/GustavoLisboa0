@@ -12,6 +12,7 @@
 
 </div>
 
+
 ---
 
 ## 👨‍💻 Sobre Mim
@@ -21,11 +22,13 @@
 - 🎓 **Aprendizado diário:** Explorando novas linguagens, estruturas de dados, frameworks e automações.
 - ⚡ **Curiosidades:** Colecionador de miniaturas de carros e fundador do Suprema Corte FC - time de futebol amador.
 
+
 ---
 
 ## 🌐 Portfólio
 
 Conheça meus projetos e trabalhos em: **[gustavolisboa.netlify.app](https://gustavolisboa.netlify.app/)**
+
 
 ---
 
@@ -49,6 +52,7 @@ Conheça meus projetos e trabalhos em: **[gustavolisboa.netlify.app](https://gus
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+
 ---
 
 ## 📊 Estatísticas do GitHub
@@ -56,6 +60,7 @@ Conheça meus projetos e trabalhos em: **[gustavolisboa.netlify.app](https://gus
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GustavoLisboa0&theme=tokyonight" />
 </p>
+
 
 ---
 
@@ -69,9 +74,10 @@ Conheça meus projetos e trabalhos em: **[gustavolisboa.netlify.app](https://gus
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://gustavolisboa.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-B8F35A?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
+    <img src="https://img.shields.io/badge/Portfólio-B8F35A?style=for-the-badge&logo=netlify&logoColor=10140A" alt="Portfólio" />
   </a>
 </p>
+
 
 ---
 
